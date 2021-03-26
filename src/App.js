@@ -60,7 +60,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <div className="col-4 justify-content-center">
+        <div className="col-4 justify-content-center container">
           <h2>Zip Code Search</h2>
         </div>
       </header >
