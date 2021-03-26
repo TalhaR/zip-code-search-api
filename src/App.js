@@ -10,7 +10,7 @@ function App() {
 
   useEffect(() => {
     const handleSearch = async () => {
-      if (zipCode === '') return;
+      if (zipCode === '') return; //deals with the inital load so we don't call API
   
       let linkToAPI = 'http://ctp-zip-api.herokuapp.com/zip/' + zipCode;
   
@@ -28,7 +28,7 @@ function App() {
   }, [zipCode])
 
   const zipHandler = (e) => {
-    // 
+    // checking to see if there are 5 digits
     if (e.target.value.length !== 5) {
       setZipCode('');
       setCities([]);
