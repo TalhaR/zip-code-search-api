@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/zip-code-search-api/static/css/main.1aa0909e.chunk.css",
-    "main.js": "/zip-code-search-api/static/js/main.78a82989.chunk.js",
-    "main.js.map": "/zip-code-search-api/static/js/main.78a82989.chunk.js.map",
+    "main.js": "/zip-code-search-api/static/js/main.22db211b.chunk.js",
+    "main.js.map": "/zip-code-search-api/static/js/main.22db211b.chunk.js.map",
     "runtime-main.js": "/zip-code-search-api/static/js/runtime-main.4ab58702.js",
     "runtime-main.js.map": "/zip-code-search-api/static/js/runtime-main.4ab58702.js.map",
     "static/js/2.034efb57.chunk.js": "/zip-code-search-api/static/js/2.034efb57.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.4ab58702.js",
     "static/js/2.034efb57.chunk.js",
     "static/css/main.1aa0909e.chunk.css",
-    "static/js/main.78a82989.chunk.js"
+    "static/js/main.22db211b.chunk.js"
   ]
 }
