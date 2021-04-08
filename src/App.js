@@ -12,7 +12,7 @@ function App() {
         const handleSearch = async () => {
             if (zipCode === "") return; //deals with the inital load so we don't call API
 
-            let linkToAPI = "http://ctp-zip-api.herokuapp.com/zip/" + zipCode;
+            let linkToAPI = "https://ctp-zip-api.herokuapp.com/zip/" + zipCode;
 
             try {
                 let response = await axios.get(linkToAPI);
