@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/zip-code-search-api/static/css/main.1aa0909e.chunk.css",
+    "main.js": "/zip-code-search-api/static/js/main.78a82989.chunk.js",
+    "main.js.map": "/zip-code-search-api/static/js/main.78a82989.chunk.js.map",
+    "runtime-main.js": "/zip-code-search-api/static/js/runtime-main.4ab58702.js",
+    "runtime-main.js.map": "/zip-code-search-api/static/js/runtime-main.4ab58702.js.map",
+    "static/js/2.034efb57.chunk.js": "/zip-code-search-api/static/js/2.034efb57.chunk.js",
+    "static/js/2.034efb57.chunk.js.map": "/zip-code-search-api/static/js/2.034efb57.chunk.js.map",
+    "index.html": "/zip-code-search-api/index.html",
+    "static/css/main.1aa0909e.chunk.css.map": "/zip-code-search-api/static/css/main.1aa0909e.chunk.css.map",
+    "static/js/2.034efb57.chunk.js.LICENSE.txt": "/zip-code-search-api/static/js/2.034efb57.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ab58702.js",
+    "static/js/2.034efb57.chunk.js",
+    "static/css/main.1aa0909e.chunk.css",
+    "static/js/main.78a82989.chunk.js"
+  ]
+}
